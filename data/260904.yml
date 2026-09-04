@@ -7,7 +7,7 @@ about:
   head: 92c9eeb
   archived: true
   latestVersion: 
-  collectedAt: 2026-09-04T19:53:10Z
+  collectedAt: 2026-09-04T20:52:09Z
 timeline:
   created: 2018-06-07
   lastCommit: 2023-01-20
@@ -84,6 +84,69 @@ total:
   openIssue: 39
   commit: 186
 ---
+path: /home/runner/.x-repo/github.com/facebookincubator/Bowler
+collectedAt: 2026-09-04T20:52:09Z
+loc:
+  Python:
+    code: 2836
+    comments: 212
+    blanks: 558
+    files: 20
+  JavaScript:
+    code: 343
+    comments: 62
+    blanks: 56
+    files: 5
+  ForgeConfig:
+    code: 47
+    comments: 0
+    blanks: 6
+    files: 1
+  Json:
+    code: 35
+    comments: 0
+    blanks: 0
+    files: 2
+  Css:
+    code: 31
+    comments: 7
+    blanks: 9
+    files: 1
+  Makefile:
+    code: 28
+    comments: 0
+    blanks: 8
+    files: 1
+  Svg:
+    code: 12
+    comments: 0
+    blanks: 0
+    files: 12
+  Sh:
+    code: 7
+    comments: 6
+    blanks: 2
+    files: 1
+  Autoconf:
+    code: 1
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 1055
+    blanks: 447
+    files: 18
+  Text:
+    code: 0
+    comments: 13
+    blanks: 0
+    files: 2
+total:
+  code: 3573
+  comments: 1359
+  blanks: 1096
+  files: 64
 ---
 date: "2026-08-24"
 repo:
