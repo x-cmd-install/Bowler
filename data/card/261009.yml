@@ -233,3 +233,4 @@ checks:
       - 'Info: Found linked content: github.com/facebookincubator/.github/SECURITY.md:1'
       - 'Warn: One or no descriptive hints of disclosure, vulnerability, and/or timelines in security policy'
       - 'Info: Found text in security policy: github.com/facebookincubator/.github/SECURITY.md:1'
+---
